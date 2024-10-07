@@ -1,4 +1,4 @@
-import API_KEY from "./apikey";
+import API_KEY from "./apikey.js";
 
 const apikey = API_KEY;
 const apiurl =
